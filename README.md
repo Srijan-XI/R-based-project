@@ -1,6 +1,9 @@
-<p align="center">                   
- <img align="top" alt="[r](https://www.r-project.org/)" width="50px" src="https://skillicons.dev/icons?i=r" />
+<p align="center">
+  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer" title="R Project">
+    <img alt="R Project Logo" width="50" src="https://skillicons.dev/icons?i=r" style="vertical-align: top;" />
+  </a>
 </p>
+
 
 # R language
 
