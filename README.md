@@ -1,5 +1,5 @@
 <p align="center">                   
- <img align="top" alt="r" width="50px" src="https://skillicons.dev/icons?i=r" />
+ <img align="top" alt="[r](https://www.r-project.org/)" width="50px" src="https://skillicons.dev/icons?i=r" />
 </p>
 
 # R language
