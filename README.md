@@ -1,3 +1,7 @@
+<p align="center">                   
+ <img align="top" alt="cpp" width="50px" src="https://skillicons.dev/icons?i=r" />
+</p>
+
 # R language
 
 R is a powerful and versatile programming language designed specifically for statistical computing, data analysis, and visualization. It is widely used by statisticians, data scientists, and researchers for tasks such as data manipulation, statistical modeling, and machine learning. R is an open-source language, which makes it accessible to everyone, and its active community contributes to a vast ecosystem of packages and tools.
